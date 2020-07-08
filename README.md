@@ -15,4 +15,4 @@ Simple Discord bot that updates a message with the public IP of the computer it'
 **ip!help**
 - Prints command description
 
-![.NET Core](https://github.com/CZ75Delta/IPBot/workflows/.NET%20Core/badge.svg?branch=master)
+![Build](https://github.com/CZ75Delta/IPBot/workflows/Build/badge.svg?branch=master)
